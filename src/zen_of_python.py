@@ -1,3 +1,3 @@
 import this
 
-print(this)  # Prints Zen of Python
+print(this)  # Prints the Zen of Python
