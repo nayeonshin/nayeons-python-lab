@@ -10,7 +10,7 @@ Nayeon's Python Lab is where I experiment with Python.
         <li>
             <code>looping_with_iterators.py</code>: Iterables can be passed to the <code>iter()</code> function
             to get an iterator for them. Iterators can be passed to the <code>next()</code> function which gives
-            its next item or raises <code>StopIteration</code>.
+            their next item or raises <code>StopIteration</code>.
         </li>
     </ul>
 </details>
